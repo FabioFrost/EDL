@@ -1,3 +1,6 @@
-Fabio França
-DBA Júnior
-Oracle
+# Fabio França  
+
+DBA Júnior  
+
+Oracle Certified  
+

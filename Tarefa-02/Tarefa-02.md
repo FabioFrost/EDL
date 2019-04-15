@@ -1,2 +1,3 @@
-Grupo: Fabio França e Rebeca Santos 
-Lingugem Ruby
+*Grupo:* Fabio França e Rebeca Santos  
+
+*Lingugem:* Ruby

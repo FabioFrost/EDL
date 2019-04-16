@@ -23,10 +23,10 @@ Para manter a praticidade, a linguagem possui algumas características interessa
 •	Tipagem dinâmica, mas forte. Isso significa que todas as variáveis devem ter um tipo (fazer parte de uma classe), mas a classe pode ser alterada dinamicamente. Os "atalhos" citados acima, por exemplo, se beneficiam da tipagem dinâmica para criar os métodos de acesso/alteração das propriedades.  
 
 
-Ruby está disponível para diversas plataformas, como Microsoft Windows, .NET, Linux, Solaris e Mac OS X, além de também ser executável em cima da máquina virtual do Java (através do JRuby).
-Expressividade:
-Blocos, uma Característica Verdadeiramente Expressiva
-Os blocos do Ruby são vistos como uma fonte de grande flexibilidade. Um programador pode adicionar uma closure a qualquer método, descrevendo como esse método deve se comportar. A closure é chamada de bloco e tornou-se uma das características mais populares para os recém chegados ao Ruby vindos de outras linguagens imperativas como o PHP ou o Visual Basic.
+Ruby está disponível para diversas plataformas, como Microsoft Windows, .NET, Linux, Solaris e Mac OS X, além de também ser executável em cima da máquina virtual do Java (através do JRuby).  
+**Expressividade:**  
+Blocos, uma Característica Verdadeiramente Expressiva  
+Os blocos do Ruby são vistos como uma fonte de grande flexibilidade. Um programador pode adicionar uma closure a qualquer método, descrevendo como esse método deve se comportar. A closure é chamada de bloco e tornou-se uma das características mais populares para os recém chegados ao Ruby vindos de outras linguagens imperativas como o PHP ou o Visual Basic.  
 Os blocos são inspirados nas linguagens funcionais. Matz disse, “nas closuresem Ruby, eu quis respeitar a cultura do Lisp”.  
 
 **Exemplo:**  

@@ -9,7 +9,7 @@ Ruby se tornou reconhecida no meio especializado desde que Dave Thomas, conhecid
 
 Ultimamente, devido a grande exposição de um framework web feito em Ruby, o Ruby on Rails desenvolvido por David Heinemeier Hansson, a linguagem tem sido foco da mídia especializada justamente pela sua praticidade.
 
-Esta mesma praticidade inclusive é um dos conceitos básicos desta linguagem. É possível fazer algoritmos que resolvam seus problemas, não necessitando se preocupar com as limitações da linguagem ou do interpretador.
+Esta mesma praticidade inclusive é um dos conceitos básicos desta linguagem. É possível fazer algoritmos que resolvam seus problemas, não necessitando se preocupar com as limitações da linguagem ou do interpretador.  
 **Características:**  
 Para manter a praticidade, a linguagem possui algumas características interessantes:  
 

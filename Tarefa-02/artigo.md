@@ -1,4 +1,4 @@
-#Linguagem Ruby  
+# Linguagem Ruby
 Nomes: Fábio França, Rebeca Santos  
 História:  
 A linguagem Ruby foi concebida em 24 de fevereiro de 1993 por Yukihiro Matsumoto, que pretendia criar uma nova linguagem que balanceava programação funcional com a programação imperativa. Matsumoto afirmou: "Eu queria uma linguagem de script que fosse mais poderosa do que Perl, e mais orientada a objetos do que Python. É por isso que eu decidi desenvolver minha própria linguagem.". 

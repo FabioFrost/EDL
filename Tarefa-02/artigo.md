@@ -35,7 +35,8 @@ Os blocos são inspirados nas linguagens funcionais. Matz disse, “nas closures
     %w[Google Yahoo MSN].map do |engine|
     "http://www." + engine.downcase + ".com"
     end
-    
+.      
+No código acima, o bloco é descrito dentro do trecho do ... end. O método map aplica o bloco à lista de palavras fornecida. Existem muitos outros métodos em Ruby que deixam em aberto a possibilidade para o programador escrever o seu próprio bloco que complete os detalhes do que esse método deveria fazer.  
   
 **Bibliografia:**
 https://www.oficinadanet.com.br/artigo/1072/ruby_o_que_e  

@@ -29,8 +29,15 @@ Blocos, uma Característica Verdadeiramente Expressiva
 Os blocos do Ruby são vistos como uma fonte de grande flexibilidade. Um programador pode adicionar uma closure a qualquer método, descrevendo como esse método deve se comportar. A closure é chamada de bloco e tornou-se uma das características mais populares para os recém chegados ao Ruby vindos de outras linguagens imperativas como o PHP ou o Visual Basic.
 Os blocos são inspirados nas linguagens funcionais. Matz disse, “nas closuresem Ruby, eu quis respeitar a cultura do Lisp”.  
 
-Exemplo:
-search_engines =
-  %w[Google Yahoo MSN].map do |engine|
-    "http://www." + engine.downcase + ".com"
-  end
+**Exemplo:**  
+    <>
+        search_engines =
+      %w[Google Yahoo MSN].map do |engine|
+        "http://www." + engine.downcase + ".com"
+      end
+  
+**Bibliografia:**
+https://www.oficinadanet.com.br/artigo/1072/ruby_o_que_e
+https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+https://www.ruby-lang.org/pt/about/
+

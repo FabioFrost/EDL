@@ -38,7 +38,7 @@ Os blocos são inspirados nas linguagens funcionais. Matz disse, “nas closures
     
   
 **Bibliografia:**
-https://www.oficinadanet.com.br/artigo/1072/ruby_o_que_e
-https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
-https://www.ruby-lang.org/pt/about/
+https://www.oficinadanet.com.br/artigo/1072/ruby_o_que_e  
+https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)  
+https://www.ruby-lang.org/pt/about/  
 

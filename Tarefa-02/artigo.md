@@ -1,6 +1,6 @@
-Linguagem Ruby  
+*Linguagem* *Ruby*  
 Nomes: Fábio França, Rebeca Santos  
-História:  
+*História:*  
 A linguagem Ruby foi concebida em 24 de fevereiro de 1993 por Yukihiro Matsumoto, que pretendia criar uma nova linguagem que balanceava programação funcional com a programação imperativa. Matsumoto afirmou: "Eu queria uma linguagem de script que fosse mais poderosa do que Perl, e mais orientada a objetos do que Python. É por isso que eu decidi desenvolver minha própria linguagem.". 
 Após o lançamento do Ruby 1.3 em 1999, iniciou-se a primeira lista de discussão em inglês chamada Ruby-Talk, marcando um interesse crescente na linguagem fora do Japão. Em setembro de 2000, o primeiro livro em inglês, Programming Ruby, foi impresso, sendo mais tarde liberado gratuitamente para o público, ajudando no processo de adoção de Ruby por falantes do inglês. 
 Por volta de 2005, o interesse pela linguagem Ruby subiu em conjunto com o Ruby on Rails, um framework de aplicações web popular escrito em Ruby. Rails é frequentemente creditada como a aplicação que tornou Ruby "famosa" e a associação é tão forte que ambos são muitas vezes confundidos por programadores que são novos a Ruby. 

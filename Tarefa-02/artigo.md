@@ -13,14 +13,14 @@ Esta mesma praticidade inclusive é um dos conceitos básicos desta linguagem. �
 Características:
 Para manter a praticidade, a linguagem possui algumas características interessantes:
 
-
-•	A sintaxe é enxuta, quase não havendo necessidade de colchetes e outros caracteres.
-•	Todas as variáveis são objetos, onde até os "tipos primitivos" (tais como inteiro, real, entre outros) são classes.
-•	Estão disponíveis diversos métodos de geração de código em tempo real, como os "attribute accessors".
-•	Através do Ruby Gems, é possível instalar e atualizar bibliotecas com uma linha de comando, de maneira similar ao APT do Debian Linux.
-•	Code blocks (blocos de código), ajudam o programador a passar um trecho de instruções para um método. A idéia é semelhante aos "callbacks" do Java, mas de uma forma extremamente simples e bem implementada.
-•	Mixins, uma forma de emular a herança múltipla, sem cair nos seus problemas.
-•	Tipagem dinâmica, mas forte. Isso significa que todas as variáveis devem ter um tipo (fazer parte de uma classe), mas a classe pode ser alterada dinamicamente. Os "atalhos" citados acima, por exemplo, se beneficiam da tipagem dinâmica para criar os métodos de acesso/alteração das propriedades.
+**Características:**
+•	A sintaxe é enxuta, quase não havendo necessidade de colchetes e outros caracteres.  
+•	Todas as variáveis são objetos, onde até os "tipos primitivos" (tais como inteiro, real, entre outros) são classes.  
+•	Estão disponíveis diversos métodos de geração de código em tempo real, como os "attribute accessors".  
+•	Através do Ruby Gems, é possível instalar e atualizar bibliotecas com uma linha de comando, de maneira similar ao APT do Debian Linux.  
+•	Code blocks (blocos de código), ajudam o programador a passar um trecho de instruções para um método. A idéia é semelhante aos "callbacks" do Java, mas de uma forma extremamente simples e bem implementada.  
+•	Mixins, uma forma de emular a herança múltipla, sem cair nos seus problemas.  
+•	Tipagem dinâmica, mas forte. Isso significa que todas as variáveis devem ter um tipo (fazer parte de uma classe), mas a classe pode ser alterada dinamicamente. Os "atalhos" citados acima, por exemplo, se beneficiam da tipagem dinâmica para criar os métodos de acesso/alteração das propriedades.  
 
 
 Ruby está disponível para diversas plataformas, como Microsoft Windows, .NET, Linux, Solaris e Mac OS X, além de também ser executável em cima da máquina virtual do Java (através do JRuby).
